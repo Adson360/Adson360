@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T08:47:19.216Z" agent="5.0 (Windows)" etag="N4VrkwCrTF9hS60q72nD" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-09T08:56:59.470Z" agent="5.0 (Windows)" etag="c2Rb1C_lHk9y6f5VZMLs" version="14.6.10" type="github">
   <diagram id="koGyTItNCX5LeSsj82Bl" name="Página-1">
     <mxGraphModel dx="1052" dy="593" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -164,19 +164,22 @@
           <mxGeometry x="1112" y="276" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="nOHZy6n-tn0uIYBsogSF-114" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI1 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador I&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;" vertex="1" parent="1">
-          <mxGeometry x="352" y="504" width="108" height="32" as="geometry" />
+          <mxGeometry x="352" y="560" width="108" height="32" as="geometry" />
         </mxCell>
         <mxCell id="nOHZy6n-tn0uIYBsogSF-115" value="&lt;div style=&quot;font-size: 7px&quot;&gt;= (=)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;=" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="352" y="392" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="nOHZy6n-tn0uIYBsogSF-116" value="&lt;div style=&quot;font-size: 7px&quot;&gt;= (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;=&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="352" y="448" width="52" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="nOHZy6n-tn0uIYBsogSF-116" value="&lt;div style=&quot;font-size: 7px&quot;&gt;= (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;=&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="352" y="504" width="52" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="nOHZy6n-tn0uIYBsogSF-117" value="&lt;div style=&quot;font-size: 7px&quot;&gt;= (=)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;=&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="408" y="392" width="52" height="52" as="geometry" />
+          <mxGeometry x="408" y="448" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="nOHZy6n-tn0uIYBsogSF-118" value="&lt;div style=&quot;font-size: 7px&quot;&gt;= (=)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;=&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="408" y="448" width="52" height="52" as="geometry" />
+          <mxGeometry x="408" y="504" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nOHZy6n-tn0uIYBsogSF-139" value="Estágio Supervisionado / Atividades Profissionais [400 horas] " style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;" vertex="1" parent="1">
+          <mxGeometry x="588" y="368" width="576" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
