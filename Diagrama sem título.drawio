@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T11:14:52.848Z" agent="5.0 (Windows)" etag="N6iaYHD3L71MhKXRz_p_" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T11:20:10.057Z" agent="5.0 (Windows)" etag="8V2HTIu6TZP6XGO35i7a" version="14.6.11" type="github">
   <diagram id="koGyTItNCX5LeSsj82Bl" name="Página-1">
-    <mxGraphModel dx="862" dy="479" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="564" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,6 +243,33 @@
         </mxCell>
         <mxCell id="qlS-l390PqAUUUw90xIs-24" value="Estágio Supervisionado / Atividades Profissionais [300 horas] " style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;" vertex="1" parent="1">
           <mxGeometry x="472" y="596" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-25" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ICD (COM350)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Introdução a Ciência de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="8" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-26" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MIE (PES310)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Modelagem e Inferência Estatística" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="8" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-27" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MD (COM360)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Mineração de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="8" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-28" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM400)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Visualização Computacional" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="64" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-29" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AM (COM410)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado de Máquina&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="64" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-30" value="&lt;div style=&quot;font-size: 7px&quot;&gt;RN (COM510)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Redes Neurais" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="64" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-31" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AP (COM520)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado Profundo&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="120" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-32" value="&lt;div style=&quot;font-size: 7px&quot;&gt;SI (EEI201)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Segurança da Informação&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="120" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qlS-l390PqAUUUw90xIs-33" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM530)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Visão Computacional&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
