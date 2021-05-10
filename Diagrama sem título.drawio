@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T13:44:18.386Z" agent="5.0 (Windows)" etag="TYbQQ1iC-32FWyoH1lgW" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-10T17:35:34.716Z" agent="5.0 (Windows)" etag="ZvF6TKV9hK1m6jzGQxAE" version="14.6.11" type="github" pages="2">
   <diagram id="koGyTItNCX5LeSsj82Bl" name="Página-1">
     <mxGraphModel dx="1560" dy="515" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cópia de Página-1" id="4bLCOmtx4-tpEVNl0ClJ">
-    <mxGraphModel dx="1714" dy="958" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="798" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="DtbuS6WYVTQRSzY0P0uw-0" />
         <mxCell id="DtbuS6WYVTQRSzY0P0uw-1" parent="DtbuS6WYVTQRSzY0P0uw-0" />
@@ -451,88 +451,7 @@
           <mxGeometry x="1115" y="636" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DtbuS6WYVTQRSzY0P0uw-55" value="Estágio Supervisionado / Atividades Profissionais [400 horas] " style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
-          <mxGeometry x="591" y="728" width="576" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-56" value="" style="group;fontColor=#5AA9E6;" vertex="1" connectable="0" parent="DtbuS6WYVTQRSzY0P0uw-1">
-          <mxGeometry x="355" y="364" width="580" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-57" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI1 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador I&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry y="112" width="108" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-58" value="&lt;div style=&quot;font-size: 7px&quot;&gt;DW (COM320)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Desvolvimento Web&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-59" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ICD (COM350)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Introdução a Ciência de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="56" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-60" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI2 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador II&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="118" y="112" width="108" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-61" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MIE (PES310)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Modelagem e Inferência Estatística" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="118" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-62" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ES (EES001)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Engenharia de Software&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="118" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-63" value="&lt;div style=&quot;font-size: 7px&quot;&gt;GAAL(MGA001)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Geometria Analítica e Álgebra Linear&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="174" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-64" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MD (COM360)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Mineração de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="174" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-65" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI3 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador III&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="236" y="112" width="108" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-66" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM400)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Visualização Computacional" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="236" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-67" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ISS (COM310)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Infraestrutura para sistemas de Software: redes, nuvem&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="236" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-68" value="&lt;div style=&quot;font-size: 7px&quot;&gt;CE (COM460)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Computação Escalável&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="292" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-69" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AM (COM410)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado de Máquina&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="292" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-70" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI4 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador IV&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="353" y="112" width="108" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-71" value="&lt;div style=&quot;font-size: 7px&quot;&gt;RN (COM510)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Redes Neurais" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="353" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-72" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ICS (COM500)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Impactos da Computação na Sociedade&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="353" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-73" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AP (COM520)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado Profundo&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="409" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-74" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM530)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Visão Computacional&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="409" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-75" value="&lt;div style=&quot;font-size: 7px&quot;&gt;TCC (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Trabalho de Conclusão de Curso&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="471" y="112" width="108" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-76" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PLN (COM550)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Processamento de Linguagem Natural" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="471" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-77" value="&lt;div style=&quot;font-size: 7px&quot;&gt;SI (EEI201)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Segurança da Informação&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="471" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-78" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PEN (COM470)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Planejamento Estratégico de Negócios&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="527" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-79" value="&lt;div style=&quot;font-size: 7px&quot;&gt;E (=)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Eletiva&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="527" y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-80" value="&lt;div style=&quot;font-size: 7px&quot;&gt;BD (COM300)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Banco de Dados" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-81" value="&lt;div style=&quot;font-size: 7px&quot;&gt;C2 (MCA002)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cálculo II&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry y="56" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="DtbuS6WYVTQRSzY0P0uw-82" value="Estágio Supervisionado / Atividades Profissionais [300 horas] " style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-56">
-          <mxGeometry x="120" y="148" width="460" height="20" as="geometry" />
+          <mxGeometry x="591" y="728" width="576" height="12" as="geometry" />
         </mxCell>
         <mxCell id="DtbuS6WYVTQRSzY0P0uw-83" value="" style="group;fontColor=#5AA9E6;" vertex="1" connectable="0" parent="DtbuS6WYVTQRSzY0P0uw-1">
           <mxGeometry x="975" y="360" width="164" height="164" as="geometry" />
@@ -563,6 +482,84 @@
         </mxCell>
         <mxCell id="DtbuS6WYVTQRSzY0P0uw-92" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM530)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;******&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Visão Computacional&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-83">
           <mxGeometry y="112" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-57" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI1 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador I&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="355" y="476" width="108" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-58" value="&lt;div style=&quot;font-size: 7px&quot;&gt;DW (COM320)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Desvolvimento Web&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="411" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-59" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ICD (COM350)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Introdução a Ciência de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="411" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-60" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI2 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador II&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="473" y="476" width="108" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-61" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MIE (PES310)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Modelagem e Inferência Estatística" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="473" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-62" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ES (EES001)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Engenharia de Software&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="473" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-63" value="&lt;div style=&quot;font-size: 7px&quot;&gt;GAAL(MGA001)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Geometria Analítica e Álgebra Linear&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="529" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-64" value="&lt;div style=&quot;font-size: 7px&quot;&gt;MD (COM360)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Mineração de Dados&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="529" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-65" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI3 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador III&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="591" y="476" width="108" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-66" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM400)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Visualização Computacional" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="591" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-67" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ISS (COM310)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Infraestrutura para sistemas de Software: redes, nuvem&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="591" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-68" value="&lt;div style=&quot;font-size: 7px&quot;&gt;CE (COM460)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Computação Escalável&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="647" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-69" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AM (COM410)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado de Máquina&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="647" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-70" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PI4 (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Projeto Integrador IV&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="708" y="476" width="108" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-71" value="&lt;div style=&quot;font-size: 7px&quot;&gt;RN (COM510)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Redes Neurais" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="708" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-72" value="&lt;div style=&quot;font-size: 7px&quot;&gt;ICS (COM500)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Impactos da Computação na Sociedade&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="708" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-73" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AP (COM520)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Aprendizado Profundo&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="764" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-74" value="&lt;div style=&quot;font-size: 7px&quot;&gt;VC (COM530)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Visão Computacional&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="764" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-75" value="&lt;div style=&quot;font-size: 7px&quot;&gt;TCC (-)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Trabalho de Conclusão de Curso&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="826" y="476" width="108" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-76" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PLN (COM550)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Processamento de Linguagem Natural" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="826" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-77" value="&lt;div style=&quot;font-size: 7px&quot;&gt;SI (EEI201)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Segurança da Informação&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="826" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-78" value="&lt;div style=&quot;font-size: 7px&quot;&gt;PEN (COM470)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Planejamento Estratégico de Negócios&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="882" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-79" value="&lt;div style=&quot;font-size: 7px&quot;&gt;E (=)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Eletiva&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="882" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-80" value="&lt;div style=&quot;font-size: 7px&quot;&gt;BD (COM300)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;Banco de Dados" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="355" y="364" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-81" value="&lt;div style=&quot;font-size: 7px&quot;&gt;C2 (MCA002)&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cálculo II&lt;br style=&quot;font-size: 7px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;aspect=fixed;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="355" y="420" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DtbuS6WYVTQRSzY0P0uw-82" value="Estágio Supervisionado / Atividades Profissionais [300 horas] " style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;glass=0;fontSize=7;fontFamily=Segoe UI;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="DtbuS6WYVTQRSzY0P0uw-1">
+          <mxGeometry x="475" y="512" width="460" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
